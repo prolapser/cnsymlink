@@ -1,0 +1,14 @@
+#cn_sd_symlinker_button {
+	width: 130px !important;
+	margin: 15px 0px 20px 0px;
+}
+#cn_sdxl_symlinker_button {
+	width: 130px !important;
+	margin: 15px 0px 20px 10px;
+}
+#cnsymlinker_results textarea {
+	height: 60px !important;
+}
+#controlnet_models_gdrive {
+	display: none !important;
+}
